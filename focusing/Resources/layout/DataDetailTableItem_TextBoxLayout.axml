@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/MainPageLayout"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:descendantFocusability="afterDescendants">
+    <TextView
+        android:id="@+id/ColumnNameLabel"
+        android:layout_x="5dp"
+        android:layout_y="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="15dp"
+        android:layout_alignParentLeft="true"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+        android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+        android:background="?android:attr/activatedBackgroundIndicator"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall" />
+    <EditText
+        android:id="@+id/TextField"
+        android:layout_x="105dp"
+        android:layout_y="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ColumnNameLabel"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:gravity="right|center_vertical"
+        android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+        android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+        android:background="?android:attr/activatedBackgroundIndicator"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall" />
+</RelativeLayout>

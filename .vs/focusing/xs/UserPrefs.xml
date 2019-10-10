@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5E81ED44-AF18-4BB0-9B24-CAD2B75378E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="focusing/ERSDataDetailTableAdapter.cs">
+    <Files>
+      <File FileName="focusing/MainActivity.cs" Line="44" Column="51" />
+      <File FileName="focusing/ERSDataDetailTableAdapter.cs" Line="53" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="focusing" expanded="True">
+            <Node name="focusing" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="ERSDataDetailTableAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.focusing AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.galaxy_nexus_pie_9_0_api_28" />
+</Properties>
